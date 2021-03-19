@@ -1,0 +1,72 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+
+ul,ol{
+    
+    list-style: none;
+    
+}
+
+
+a{
+    
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.container{
+    
+    max-width: 80%;
+    margin:auto;
+    text-decoration-color: aqua;
+    
+}
+
+.header{
+    
+    background-color: black;
+    height:80px;
+    
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    
+
+}
+
+
+.nav ul{
+    
+    display:flex;
+}
+
+.LOGO a{
+    
+    color:white;
+     font-size: 50px;
+}
+
+.nav ul li a{
+    
+    color:white;
+    font-size: 20px;
+    padding: 15px 10px;
+    display: block;
+} 
+.header{
+    
+    background-image: url(../image/pic.jpg);
+    height:600px;
+    
+    
+}
+
