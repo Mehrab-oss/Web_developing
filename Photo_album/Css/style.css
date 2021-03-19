@@ -1,0 +1,264 @@
+.menu{
+    background: black;
+    height:80px;
+    width:100%;
+    
+}
+
+.logo{
+    color: white;
+    font-size:50px;
+    font-family: sans-serif;
+    
+}
+
+.logo p{
+    
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.bars ul{
+   color:aliceblue;
+   color:black;
+}
+.bars ul li a{
+    
+    color:white;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bars ul  {
+    
+    display:flex;
+    color:rgba(92, 19, 75, 0.73) ;
+   
+}
+
+.bars ul li a {
+padding: 5px 30px;
+    font-size: 25px;
+    text-decoration-line: none;
+}
+
+.bars ul li:hover{
+    
+    background:rgba(92, 19, 75, 0.73) ;
+    border-radius: 3px;
+    margin-top: 5px;
+    
+    
+    
+}
+
+/*NEW PART*/
+/*NEW PART*/
+/*NEW PART*/
+/*NEW PART*/
+
+.background:{
+    
+    background: url(../images/areeba.jpg);
+    height: 100vh;
+        width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+.container{
+       background: url(../images/abdullah.jpg);
+    height:1000px;
+        width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+
+    max-width: 80%;
+    margin: auto;
+     margin-top: 40px;
+}
+
+/*new pArt*/
+/*new pArt*/
+/*new pArt*/
+/*new pArt*/
+
+.article{
+    
+    max-width:80%;
+    margin:auto;
+        
+     
+}
+
+/* PORTRAIT PART STARTS*/
+/* PORTRAIT PART STARTS*/
+/* PORTRAIT PART STARTS*/
+/* PORTRAIT PART STARTS*/
+/* PORTRAIT PART STARTS*/
+
+
+.gallery{
+    
+   
+      margin:1px 150px;
+    border-radius: 10px;
+    
+}
+
+.gallery img{
+    
+      transition: 2s;
+    padding:15px;
+    border-radius: 10px;
+    
+
+    }
+
+.gallery img:hover{
+ 
+    filter: grayscale(100%);
+    transform:scale(1.1);
+  
+    
+}
+
+.background{
+    margin: auto;
+    padding:auto;
+    background: black;
+    
+}
+
+.header{
+    height:100%;
+    width:100%
+    background:black;
+
+}
+
+
+
+.gallery h1{
+    
+    color:white;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 50px;
+}
+
+
+
+
+
+/*PORTRAIT ENDS*/
+/*PORTRAIT ENDS*/
+/*PORTRAIT ENDS*/
+/*PORTRAIT ENDS*/
+/*PORTRAIT ENDS*/
+
+
+/*WILDLiFE STARTS*/
+/*WILDLiFE STARTS*/
+/*WILDLiFE STARTS*/
+/*WILDLiFE STARTS*/
+
+
+.picone{
+    background:black;
+    height:1000px;;
+    width:100%;
+    margin:auto;
+    padding:auto;
+    
+    
+    
+}
+
+.picone img{
+    
+    transition:2s;
+    padding:50px;
+    margin-left: 50px;
+    margin-top:80px; 
+    
+}
+
+.picone img:hover{
+    
+    filter: grayscale(100%);
+    transform:scale(1.1);
+}
+
+.picone h1{
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+    font-size: 50px;
+   
+  
+}
+
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+/*URBAN STARTS*/
+
+
+
+.look{
+    
+     background:black;
+    height:1000px;;
+    width:100%;
+    margin:auto;
+    padding:auto;
+    
+    
+    
+}
+
+.look img{
+    
+    transition:2s;
+    padding:50px;
+    margin-left: 50px;
+    margin-top:80px; 
+     
+    
+}
+
+
+.look img:hover{
+       filter: grayscale(100%);
+    transform:scale(1.1);
+    
+    
+}
+
+
+.look h1{
+    
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+    font-size: 50px;
+   
+}
+
